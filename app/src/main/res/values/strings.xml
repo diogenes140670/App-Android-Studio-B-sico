@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">AppBasico</string>
+    <string name="app_name">AppProjetoFURG</string>
+    <string name="app_novonome">Pizza Crítica</string>
+    <string name="app_versao">Versão 1.0</string>
+    <string name="app_autor">PPGECE - Guilherme Martins Abreu</string>
 </resources>
