@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'diogenes.pereira.appbasico'
+    namespace 'diogenes.pereira.apppizzacritica'
     compileSdk 33
 
     defaultConfig {
-        applicationId "diogenes.pereira.appbasico"
+        applicationId "diogenes.pereira.apppizzacritica"
         minSdk 18
         targetSdk 33
         versionCode 1

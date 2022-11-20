@@ -1,9 +1,11 @@
-package diogenes.pereira.appbasico;
+package diogenes.pereira.apppizzacritica;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.util.Log;
+
+import diogenes.pereira.apppizzacritica.R;
 
 public class MainActivity extends AppCompatActivity {
 
