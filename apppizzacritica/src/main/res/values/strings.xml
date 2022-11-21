@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PizzaCritica</string>
+    <string name="app_outronome1">PPGECE - Guilherme de Abreu</string>
+    <string name="app_outronome2">Versao 1.0</string>
 </resources>

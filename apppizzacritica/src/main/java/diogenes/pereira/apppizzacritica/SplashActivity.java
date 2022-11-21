@@ -11,7 +11,7 @@ public class SplashActivity extends AppCompatActivity {
 
     String TAG = "App_Basico";
 
-    int tempoDeEspera = 1000 * 10;
+    int tempoDeEspera = 1000 * 5;
     ;
 
     @Override
